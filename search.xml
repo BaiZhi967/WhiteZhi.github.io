@@ -8,8 +8,16 @@
       <link href="/whitezhi.github.io/hello-template/"/>
       <url>/whitezhi.github.io/hello-template/</url>
       
-        <content type="html"><![CDATA[<p> This is a Test Blog.<br> 测试一下</p>]]></content>
+        <content type="html"><![CDATA[<p> This is a Test Blog.<br> 测试一下</p><span id="more"></span><p> This is a Test Blog.<br> 测试一下<br>  This is a Test Blog.<br> 测试一下<br>  This is a Test Blog.<br> 测试一下<br>  This is a Test Blog.<br> 测试一下</p>]]></content>
       
+      
+      <categories>
+          
+          <category> Test </category>
+          
+          <category> Test 2 </category>
+          
+      </categories>
       
       
         <tags>
